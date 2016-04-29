@@ -1,4 +1,4 @@
-Welcome to [huxiao64.github.com](http://huxiao64.github.com/)!
+Welcome to [huxiao64.github.io](http://huxiao64.github.io/)!
 
 非典型90后，典型狮子座<(=⌒_⌒=)>
 
