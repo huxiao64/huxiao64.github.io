@@ -21,4 +21,3 @@ Big Data Engineering Intern, Spark Group
 
 ##Contact
 [Weibo](http://weibo.com/huxiaoalan)
-<img src="/images/wei-gmail.gif" align=right>
