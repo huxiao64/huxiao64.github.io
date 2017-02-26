@@ -1,7 +1,5 @@
 Welcome to [huxiao64.github.io](http://huxiao64.github.io/)!
 
-非典型90后，典型狮子座<(=⌒_⌒=)>
-
 ##Interest
 Machine Learning, Text Mining, Distributed Computing, Agile Project Management
 
